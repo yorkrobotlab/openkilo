@@ -39,7 +39,7 @@ Please note: this project used a Windows 7 computer, and other systems have not 
 5. Install KiloGUI and use the OHC to program a benchmark test onto the Kilobots. These tests can be found in the WCU materials as well as at [Kilobotics](https://www.kilobotics.com/labs) where details of their functions are available.
 
 ## Author
-[Jamie Trump](james.trump@postgrad.plymouth.ac.uk) - Postgraduate Student at University of Plymouth, UK
+Jamie Trump - Postgraduate Student at University of Plymouth, UK
 
 ## Links
 

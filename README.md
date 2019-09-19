@@ -23,9 +23,15 @@ In particular:
 * [KiloGUI](https://github.com/acornejo/kilogui), GUI application for Kilobot control
 * [“Maker: A Kilobot Swarm”](https://www.asee.org/public/conferences/64/papers/15441/view)
 
-KiCad is a free open-source electronic CAD suite which was used to create this Kilobot version. It is not required to access the gerber files, but if you wish to make changes to the design, it is available from [KiCad EDA](http://kicad-pcb.org/). The archived project file can be imported using the "Unarchive project.." option. [freeRouting](https://freerouting.org/) was used in conjunction with KiCad to carry out automatic PCB routing for the new design.
-
 Please note: this project used a Windows 7 computer, and other systems have not been tested.
+
+### Editing the PCB
+KiCad is a free open-source electronic CAD suite which was used to create this Kilobot version. It is not required to access the gerber files, but if you wish to make changes to the design, it is available from [KiCad EDA](http://kicad-pcb.org/). 
+
+The archived project file can be imported using the "Unarchive project.." option. The included Kilobot.lib is required for certain symbols and footprints, and must be added using the process described here: ["[library tables] are found in the preferences menu of all KiCad subprogramms (preference -> Manage symbol/footprint libraries.)"](https://forum.kicad.info/t/library-management-in-kicad-version-5/14636).
+
+[freeRouting](https://freerouting.org/) was used in conjunction with KiCad to carry out automatic PCB routing for the new design.
+
 
 ## Process
 1. Purchase all PCBs and required components using BOMs included here. For the OHC PCB, use WCU gerber files.

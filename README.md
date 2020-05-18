@@ -21,10 +21,10 @@ In particular:
 * OHC Gerber files
 * Software folder including Kilobot and OHC firmware
 * [KiloGUI](https://github.com/acornejo/kilogui), GUI application for Kilobot control
-* ["Maker: A Kilobot Swarm"](https://www.asee.org/public/conferences/64/papers/15441/view)
+* [Maker: A Kilobot Swarm](https://www.asee.org/public/conferences/64/papers/15441/view)
 
 ### Editing the PCB
-KiCad EDA is a free open-source electronic CAD suite which was used to create the OpenKilo design, available from http://kicad-pcb.org/. KiCad is required in order to make changes to the design, but the exported Gerber files are also available for use directly.
+[KiCad EDA](http://kicad-pcb.org/) is a free open-source electronic CAD suite which was used to create the OpenKilo design. KiCad is required in order to make changes to the design, but the exported Gerber files are also available for use directly.
 
 The included Kilobot.lib is required for certain symbols and footprints, and must be added to the KiCad project using the process described [here](https://forum.kicad.info/t/library-management-in-kicad-version-5/14636).
 
@@ -34,7 +34,7 @@ The included Kilobot.lib is required for certain symbols and footprints, and mus
 ## Build Process
 1. Purchase all PCBs and required components using BOMs included here. For the OHC PCB, use WCU Gerber files.
 
-2. Following the guide in ["Maker: A Kilobot Swarm"](https://www.asee.org/public/conferences/64/papers/15441/view), install the required software before assembling the OHC and programming its firmware.
+2. Following the guide in [Maker: A Kilobot Swarm](https://www.asee.org/public/conferences/64/papers/15441/view), install the required software before assembling the OHC and programming its firmware.
 
 3. Assemble the OpenKilo hardware using the included assembly diagram and checklists.
 
@@ -44,7 +44,9 @@ The included Kilobot.lib is required for certain symbols and footprints, and mus
 
 
 ## Author
-The main OpenKilo design and prototyping was completed by Jamie Trump while a postgraduate student at the [University of Plymouth](https://www.plymouth.ac.uk/).
+The main OpenKilo design and prototyping was completed by Jamie Trump while a postgraduate student in the [School of Engineering, Computing and Mathematics](https://www.plymouth.ac.uk/schools/school-of-engineering-computing-and-mathematics) at the [University of Plymouth](https://www.plymouth.ac.uk/).
+
+His original project repository can be found at [github.com/jamie-trump/Plymouth-Kilobot-2019](https://github.com/jamie-trump/Plymouth-Kilobot-2019).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
@@ -53,7 +55,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ### Information and Publications
 * [Kilobot @ WCU](https://kilobot.wcu.edu/)
-* [“Maker: A Kilobot Swarm”](https://www.asee.org/public/conferences/64/papers/15441/view)
+* [Maker: A Kilobot Swarm](https://www.asee.org/public/conferences/64/papers/15441/view)
 * [Kilobotics Labs](https://www.kilobotics.com/labs)
 
 ### Software

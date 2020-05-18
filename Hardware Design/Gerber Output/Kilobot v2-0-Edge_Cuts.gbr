@@ -1,0 +1,19 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.2)-2*
+G04 #@! TF.CreationDate,2019-07-20T17:19:25+01:00*
+G04 #@! TF.ProjectId,Kilobot v2-0,4b696c6f-626f-4742-9076-322d302e6b69,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Profile,NP*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.2)-2) date 2019-07-20 17:19:25*
+%MOMM*%
+%LPD*%
+G04 APERTURE LIST*
+%ADD10C,0.200000*%
+G04 APERTURE END LIST*
+D10*
+X118000000Y-100000000D02*
+G75*
+G03X118000000Y-100000000I-18000000J0D01*
+G01*
+M02*

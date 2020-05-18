@@ -47,6 +47,8 @@ The archived project file can be imported using the "Unarchive project.." option
 ## Author
 Jamie Trump - Postgraduate Student at University of Plymouth, UK
 
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 ## Links
 
 ### Information and Publications

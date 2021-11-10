@@ -24,7 +24,7 @@ In particular:
 * [Maker: A Kilobot Swarm](https://www.asee.org/public/conferences/64/papers/15441/view)
 
 ### Editing the PCB
-[KiCad EDA](http://kicad-pcb.org/) is a free open-source electronic CAD suite which was used to create the OpenKilo design. KiCad is required in order to make changes to the design, but the exported Gerber files are also available for use directly.
+[KiCad EDA](http://kicad.org/) is a free open-source electronic CAD suite which was used to create the OpenKilo design. KiCad is required in order to make changes to the design, but the exported Gerber files are also available for use directly.
 
 The included Kilobot.lib is required for certain symbols and footprints, and must be added to the KiCad project using the process described [here](https://forum.kicad.info/t/library-management-in-kicad-version-5/14636).
 
@@ -60,5 +60,5 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ### Software
 * [KiloGUI](https://github.com/acornejo/kilogui)
-* [KiCad EDA](http://kicad-pcb.org/)
+* [KiCad EDA](http://kicad.org/)
 * [freeRouting](https://freerouting.org/)
